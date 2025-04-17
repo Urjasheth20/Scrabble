@@ -338,8 +338,6 @@ A3. **Some improvements we could implement are:**
 
 🟢 **Implement a game-saving and loading system**, so players can pause and resume gameplay at their convenience.
 
-🟢 **
-
 🟢 **Add sound effects and background music** for a more engaging and interactive gaming experience.
 
 🟢 **Add a tutorial or help section** to guide first-time players on how to play the game and understand the rules.
