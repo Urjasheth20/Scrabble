@@ -366,7 +366,6 @@ A5. OOPS principles:
 
 🟢 **Modularity:** Classes are organized in separate files for easier maintenance and scalability.
 
-🟢 **Inheritance & Polymorphism:** Can be used to extend Player class for AI or different player types in the future.
 
 ---
 # THANK YOU
